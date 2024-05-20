@@ -1,15 +1,14 @@
 
 ## 👋 Hi, I’m BrucePang, a Java developer with two and a half years of practice.
-
-- 🏡 个人作品：<a href="https://github.com/bruce-pang/pRPC" target="_blank">PRPC🚀-一款轻量级RPC框架</a>
-- 📩 邮箱：brucepang0618@gmail.com
+- 🧑🏻‍💻 Back-end Engineer
+- 🏡 Author of <a href="https://github.com/bruce-pang/pRPC" target="_blank">PRPC🚀</a>
+- 📩 Email：brucepang0618@gmail.com
   
 
-### ✨ 我的技能(my skills)   
+### ✨ My Skills   
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
@@ -19,7 +18,7 @@
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
 ## 今年汇总(This year's summary) ✨
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhccong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhccong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=bruce-pang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruce-pang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 - 框架(framework projects)
   - [轻量级 RPC 框架🚀基于 Netty + Zookeeper/Nacos](https://github.com/bruce-pang/pRPC)
